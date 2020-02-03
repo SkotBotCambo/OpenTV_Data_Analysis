@@ -1,35 +1,28 @@
-# OpenTV_Data_Analysis
-### Documents
-* [OTV Bible](https://docs.google.com/document/d/1UILj0y_OTnWyv1QIfBcDpczUQdF7CesVnUoC_KNSTgc/edit?ts=5e174da0#)
-* [OTV Research Plan](https://docs.google.com/document/d/1VR-LG5srw26tv3r2tFKOtD4WhOhTwcgwM7e4Kv29BgU/edit)
-# TODO
-* ~~Look at the spreadsheet data and see that it looks accurate~~
-* Look into getting event information from Facebook
-* what are the RSVPs looking like
-* demographic info is helpful
-* map of where the events have been
-* info to get
-    * RSVP info
-    * Raw numbers
-    * Demographics -> gender,age
-    * How many people saw the event?
-    * How many people were invited?
-    * Any data on the post itself
-    * posting to the event?
-### Vimeo
-* ~~graphs of individual programs by viewership by month.~~
-* **Backfill null project id with the project id that other entries with the same URI have**
-* retention rates over time
-    * how should we define retention?
-* going up or down?
-* how many page loads / exposure
-* views
-* Look for inconsistencies
-* having noticed retention rates downloaded but differ from what’s on the website
-* Aggregated by program
+# Open TV Data Analysis
+*Authored by [Scott Cambo](http://www.scottallencambo.com)*
 
-### Additional Analyses
-* organic vs. inorganic posting
-* social network maps
-* maybe start with the artist as their own social network
-* Facebook as the most important platform
+This Github repository includes all code for use in analyzing data collected to promote and research 
+the [Open TV Platform for Intersectional Television](https://ajchristian.org/projects/#/open-tv-beta)
+that is lead by [Professor AJ Christian](https://ajchristian.org/) of Northwestern University.
+
+# Important Resources
+### [OTV Bible](https://docs.google.com/document/d/1UILj0y_OTnWyv1QIfBcDpczUQdF7CesVnUoC_KNSTgc/edit?ts=5e174da0#)
+The OTV Bible includes information important to research assistants of the OTV project.
+
+### [OTV Research Plan](https://docs.google.com/document/d/1VR-LG5srw26tv3r2tFKOtD4WhOhTwcgwM7e4Kv29BgU/edit)
+The OTV Research Plan is a roadmap for the research efforts which utilize the social media and marketing
+data being collected about OTV.
+
+# Downloading and organizing the **data**
+1. Ask Professor Christian for access to the Dropbox if you don't already have access to it.
+2. In the `Data Collection` dropbox folder go to `Spreadsheets`, i.e. `/Data Collection/Spreadsheets/`
+3. Download the data for the years of interest and unzip them to the `./data` folder
+    * For example, when unzipped you should be able to access the data for the April 3rd to May 1st period of 2019 in its own folder by navigating to `/data/Spreadsheets_2019/Spreadsheets (04_03_2019)-(05_01_2019)/`
+
+# Recommended Work Environment Configuration
+* All the jupyter notebooks in this repository were composed using Python 3.6+
+* Data analysis should be done using [virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) to avoid work configurations that may conflict with general system configurations.
+    * `virtualenv` is the most basic virtual environment configuration tool, but I recommend using a combination of [`Pyenv`](https://github.com/pyenv/pyenv), which manages multiple python version installations, and [`Pipenv`](https://pipenv.readthedocs.io/en/latest/), which manages the virtual environment in a way that is more easily reproducible in different system environments. I have found [***this blog post***](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) to be the most helpful in configuring these two together.
+* Most (if not all) of the computational analysis will be done using [Jupyter](https://jupyter.org/). With the virtual environment active, follow the directions on Jupyter's website to install either Jupyter notebook or Jupyter lab. Jupyter notebook is designed for simpler projects in which only one or two notebooks are of importance
+for analysis at a given time and Jupyter lab is designed for larger, more complex project which require that many files and directories are managed in the same interface.
+ 
