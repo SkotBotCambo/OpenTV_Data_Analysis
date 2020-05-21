@@ -16,6 +16,10 @@ ipywidgets = ">=7.2"
 psutil = "*"
 requests = "*"
 plotly-geo = "==1.0.0"
+facebook-sdk = "*"
+tqdm = "*"
+spacy = "*"
+spacy-lookups-data = "*"
 
 [requires]
 python_version = "3.7"

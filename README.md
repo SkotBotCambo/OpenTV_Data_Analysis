@@ -26,4 +26,9 @@ data being collected about OTV.
     * ***Important Note for Windows users***: Pyenv is not compatible with Windows. That is okay, it's not entirely necessary (especially for Windows). Consider following [this blog post](https://docs.python-guide.org/starting/install3/win/) instead for installing Python 3 and setting up *Pipenv*. 
 * Most (if not all) of the computational analysis will be done using [Jupyter](https://jupyter.org/). With the virtual environment active, follow the directions on Jupyter's website to install either Jupyter notebook or Jupyter lab. Jupyter notebook is designed for simpler projects in which only one or two notebooks are of importance
 for analysis at a given time and Jupyter lab is designed for larger, more complex project which require that many files and directories are managed in the same interface.
- 
+
+# Research Questions:
+* What are our most popular series by year (views and loads)? Excluding *Brown Girls* & *Brujos*?
+* What sites refer the most traffic to OTV projects? By year as well.
+* What projects have the highest retention rates (average percentage watched)? By year as well.
+* What projects feature the most engagement (comments and likes)? By year as well.
