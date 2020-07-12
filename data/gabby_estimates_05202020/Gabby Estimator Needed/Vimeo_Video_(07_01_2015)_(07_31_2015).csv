@@ -1,0 +1,38 @@
+plays,downloads,loads,finishes,likes,comments,uri,name,duration,created_time,sizes,unique_loads,mean_percent,mean_seconds,sum_seconds,total_seconds,unique_viewers,Project ID
+300,0.0,558.0,23.0,1.0,0.0,/videos/134807299,Open TV Presents: Nupita Obama Creates Vogua,731.0,2015-07-29T04:46:53+00:00,Array,0.0,59.0,413.0,123905.0,222109.0,0.0,NOCV
+167,0.0,562.0,51.0,1.0,0.0,/videos/121810540,"You're So Talented, Chapter One",341.0,2015-03-10T18:04:57+00:00,Array,0.0,74.0,218.0,36449.0,57236.0,0.0,YST
+137,0.0,497.0,31.0,1.0,0.0,/videos/129668799,"You're So Talented, Season One -- Chapter Seven",477.0,2015-06-03T14:13:37+00:00,Array,0.0,82.0,357.0,49015.0,64820.0,0.0,YST
+124,0.0,218.0,68.0,0.0,0.0,/videos/132485814,Open TV Presents: Nupita Obama Creates Vogua Trailer,47.0,2015-07-02T22:30:04+00:00,Array,0.0,85.0,35.0,4344.0,5981.0,0.0,NOCV
+114,0.0,400.0,21.0,0.0,0.0,/videos/124849631,"You're So Talented, Season One -- Chapter Four",295.0,2015-04-13T17:46:12+00:00,Array,0.0,76.0,212.0,24258.0,33878.0,0.0,YST
+104,0.0,169.0,28.0,0.0,0.0,/videos/123121866,"You're So Talented, Season One -- Chapter Two",459.0,2015-03-24T18:39:13+00:00,Array,0.0,76.0,342.0,35591.0,47736.0,0.0,YST
+99,0.0,133.0,13.0,0.0,0.0,/videos/128319423,"You're So Talented, Season One -- Chapter Six",266.0,2015-05-19T23:04:13+00:00,Array,0.0,77.0,194.0,19215.0,26304.0,0.0,YST
+97,0.0,139.0,18.0,0.0,0.0,/videos/124357625,"You're So Talented, Season One -- Chapter Three",397.0,2015-04-07T22:23:45+00:00,Array,0.0,79.0,303.0,29447.0,38470.0,0.0,YST
+90,0.0,160.0,17.0,0.0,0.0,/videos/126932556,"You're So Talented, Season One -- Chapter Five",292.0,2015-05-05T15:32:57+00:00,Array,0.0,82.0,220.0,19811.0,26247.0,0.0,YST
+82,0.0,180.0,27.0,0.0,0.0,/videos/133452075,#NupitaObama Creates Vogua Premiere: Lakeview,77.0,2015-07-14T14:04:01+00:00,Array,0.0,73.0,54.0,4430.0,6437.0,0.0,None
+75,0.0,118.0,37.0,0.0,0.0,/videos/134346192,#NupitaObama Creates Vogua Premiere: Wicker Park,98.0,2015-07-23T20:27:08+00:00,Array,0.0,90.0,85.0,6405.0,7404.0,0.0,None
+50,0.0,77.0,30.0,0.0,0.0,/videos/121910493,Teaser -- Nupita Obama Creates Vogua,55.0,2015-03-11T16:54:25+00:00,Array,0.0,79.0,43.0,2168.0,2782.0,0.0,NOCV
+45,0.0,70.0,24.0,0.0,0.0,/videos/126751017,"Teaser -- Futurewomen, an alternate reality series by Honey Pot Performance",47.0,2015-05-03T21:57:12+00:00,Array,0.0,87.0,38.0,1734.0,2221.0,0.0,FW
+38,0.0,79.0,18.0,0.0,0.0,/videos/134753960,#NupitaObama Creates Vogua Premiere: Pilsen,73.0,2015-07-28T17:24:03+00:00,Array,0.0,84.0,58.0,2210.0,2755.0,0.0,None
+9,0.0,30.0,1.0,0.0,0.0,/videos/130134667,Introducing Open TV (beta) at TEDx Northwestern,1039.0,2015-06-08T19:28:36+00:00,Array,0.0,46.0,375.0,3381.0,9351.0,0.0,OTV|OTC
+1,0.0,11.0,0.0,0.0,0.0,/videos/9768044,FAME: Kade Style (Anniversary Cut!),627.0,2010-02-26T21:33:50+00:00,Array,0.0,84.0,529.0,529.0,627.0,0.0,FM
+0,0.0,1.0,0.0,0.0,0.0,/videos/11565721,MEET - Episode Two - LEE 9AM,216.0,2010-05-07T22:19:26+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MT
+0,0.0,4.0,0.0,0.0,0.0,/videos/25944002,"Michaela Angela Davis on Race and Fashion: ""Color is a Distraction""",230.0,2011-07-03T22:21:57+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MAD
+0,0.0,1.0,0.0,0.0,0.0,/videos/11567668,LEE's Video Art,214.0,2010-05-08T00:12:57+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,LVA
+0,0.0,1.0,0.0,0.0,0.0,/videos/111191333,vogua kiam,255.0,2014-11-07T09:27:00+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,VK
+0,0.0,6.0,0.0,0.0,0.0,/videos/28078430,Philadelphia Voices of Pride,129.0,2011-08-23T21:42:52+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,PVP
+0,0.0,1.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,1.0,0.0,0.0,0.0,/videos/101415411,freestylin vogua with effects and high data rate,280.0,2014-07-22T15:26:23+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,FV
+0,0.0,4.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,1.0,0.0,0.0,0.0,/videos/23215153,A Conversation with Michaela Angela Davis at the Urban Catwalk,108.0,2011-05-03T15:54:14+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MAD
+0,0.0,31.0,0.0,0.0,0.0,/videos/16589287,It Goes Unsaid,216.0,2010-11-07T17:28:53+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,IGU
+0,0.0,3.0,0.0,0.0,0.0,/videos/13692827,Pay Day,1586.0,2010-07-28T02:28:12+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,PD
+0,0.0,3.0,0.0,0.0,0.0,/videos/11588116,Project Basho,129.0,2010-05-09T02:35:04+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,PB
+0,0.0,3.0,0.0,0.0,0.0,/videos/11588056,A Day at the Plant,331.0,2010-05-09T02:28:43+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,ADP
+0,0.0,3.0,0.0,0.0,0.0,/videos/11587726,Spike Lee with Talk Radio News,119.0,2010-05-09T02:03:33+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,TRN
+0,0.0,3.0,0.0,0.0,0.0,/videos/11587706,Military Sexual Trauma,1610.0,2010-05-09T02:02:01+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MST
+0,0.0,3.0,0.0,0.0,0.0,/videos/11578516,Talk Radio News - Dennis Kucinich,381.0,2010-05-08T16:22:50+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,TRN
+0,0.0,3.0,0.0,0.0,0.0,/videos/11577839,"Senegal: Sights, Sounds and Struggles",286.0,2010-05-08T15:44:57+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,SSS
+0,0.0,3.0,0.0,0.0,0.0,/videos/11577487,The Algebra Project,86.0,2010-05-08T15:21:03+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,AP
+0,0.0,1.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,1.0,0.0,0.0,0.0,/videos/11565555,MEET - Episode One - JORDAN 9AM,235.0,2010-05-07T22:11:34+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MT
+0,0.0,18.0,0.0,0.0,0.0,/videos/10225370,"Artspace Underground, February 2010",376.0,2010-03-17T04:45:04+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,None

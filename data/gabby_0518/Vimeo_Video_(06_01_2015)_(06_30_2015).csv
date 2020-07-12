@@ -1,0 +1,34 @@
+plays,downloads,loads,finishes,likes,comments,uri,name,duration,created_time,sizes,unique_loads,mean_percent,mean_seconds,sum_seconds,total_seconds,unique_viewers,Project ID
+361,0.0,506.0,66.0,1.0,0.0,/videos/129668799,"You're So Talented, Season One -- Chapter Seven",477.0,2015-06-03T14:13:37+00:00,Array,0.0,575877751.0,2554951034.0,922337323560.0,174948.0,0.0,YST
+196,0.0,466.0,29.0,1.0,0.0,/videos/128319423,"You're So Talented, Season One -- Chapter Six",266.0,2015-05-19T23:04:13+00:00,Array,0.0,75.0,188.0,37020.0,52328.0,0.0,YST
+188,0.0,318.0,42.0,1.0,0.0,/videos/123121866,"You're So Talented, Season One -- Chapter Two",459.0,2015-03-24T18:39:13+00:00,Array,0.0,79.0,303.0,57072.0,86292.0,0.0,YST
+185,0.0,421.0,52.0,1.0,0.0,/videos/121810540,"You're So Talented, Chapter One",341.0,2015-03-10T18:04:57+00:00,Array,0.0,75.0,245.0,45346.0,62691.0,0.0,YST
+166,0.0,474.0,20.0,0.0,0.0,/videos/124849631,"You're So Talented, Season One -- Chapter Four",295.0,2015-04-13T17:46:12+00:00,Array,0.0,72.0,204.0,33908.0,50376.0,0.0,YST
+157,0.0,302.0,26.0,0.0,0.0,/videos/126932556,"You're So Talented, Season One -- Chapter Five",292.0,2015-05-05T15:32:57+00:00,Array,0.0,78.0,216.0,33919.0,45878.0,0.0,YST
+137,0.0,200.0,23.0,0.0,0.0,/videos/124357625,"You're So Talented, Season One -- Chapter Three",397.0,2015-04-07T22:23:45+00:00,Array,0.0,78.0,287.0,39415.0,54729.0,0.0,YST
+47,0.0,80.0,21.0,2.0,0.0,/videos/126751017,"Teaser -- Futurewomen, an alternate reality series by Honey Pot Performance",47.0,2015-05-03T21:57:12+00:00,Array,0.0,83.0,35.0,1686.0,2209.0,0.0,FW
+27,0.0,102.0,10.0,2.0,0.0,/videos/130134667,Introducing Open TV (beta) at TEDx Northwestern,1039.0,2015-06-08T19:28:36+00:00,Array,0.0,60.0,609.0,16450.0,28053.0,0.0,OTV|OTC
+16,0.0,27.0,8.0,0.0,0.0,/videos/121910493,Teaser -- Nupita Obama Creates Vogua,55.0,2015-03-11T16:54:25+00:00,Array,0.0,77.0,42.0,675.0,873.0,0.0,NOCV
+1,0.0,3.0,0.0,0.0,0.0,/videos/25696666,"Caroline Weber on Daphne Guinness, Marie Antoinette and the Peril of the Living Mannequin",2070.0,2011-06-28T03:17:50+00:00,Array,0.0,32.0,668.0,668.0,2070.0,0.0,PLM
+1,0.0,10.0,1.0,0.0,0.0,,0,100.0,755,755,755.0,0.0,,,,,None
+1,0.0,2.0,1.0,0.0,0.0,/videos/25944002,"Michaela Angela Davis on Race and Fashion: ""Color is a Distraction""",230.0,2011-07-03T22:21:57+00:00,Array,0.0,99.0,229.0,229.0,230.0,0.0,MAD
+1,0.0,8.0,0.0,0.0,0.0,/videos/9768044,FAME: Kade Style (Anniversary Cut!),627.0,2010-02-26T21:33:50+00:00,Array,0.0,0.0,0.0,0.0,627.0,0.0,FM
+0,0.0,4.0,0.0,0.0,0.0,/videos/23215153,A Conversation with Michaela Angela Davis at the Urban Catwalk,108.0,2011-05-03T15:54:14+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MAD
+0,0.0,2.0,0.0,0.0,0.0,/videos/111191333,vogua kiam,255.0,2014-11-07T09:27:00+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,VK
+0,0.0,1.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,1.0,0.0,0.0,0.0,/videos/101415411,freestylin vogua with effects and high data rate,280.0,2014-07-22T15:26:23+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,FV
+0,0.0,4.0,0.0,0.0,0.0,/videos/11565721,MEET - Episode Two - LEE 9AM,216.0,2010-05-07T22:19:26+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MT
+0,0.0,4.0,0.0,0.0,0.0,/videos/11567668,LEE's Video Art,214.0,2010-05-08T00:12:57+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,LVA
+0,0.0,7.0,0.0,0.0,0.0,/videos/16589287,It Goes Unsaid,216.0,2010-11-07T17:28:53+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,IGU
+0,0.0,2.0,0.0,0.0,0.0,/videos/11588116,Project Basho,129.0,2010-05-09T02:35:04+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,PB
+0,0.0,2.0,0.0,0.0,0.0,/videos/11588056,A Day at the Plant,331.0,2010-05-09T02:28:43+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,ADP
+0,0.0,2.0,0.0,0.0,0.0,/videos/11587726,Spike Lee with Talk Radio News,119.0,2010-05-09T02:03:33+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,TRN
+0,0.0,2.0,0.0,0.0,0.0,/videos/11587706,Military Sexual Trauma,1610.0,2010-05-09T02:02:01+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MST
+0,0.0,2.0,0.0,0.0,0.0,/videos/11578516,Talk Radio News - Dennis Kucinich,381.0,2010-05-08T16:22:50+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,TRN
+0,0.0,2.0,0.0,0.0,0.0,/videos/11577839,"Senegal: Sights, Sounds and Struggles",286.0,2010-05-08T15:44:57+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,SSS
+0,0.0,2.0,0.0,0.0,0.0,/videos/11577487,The Algebra Project,86.0,2010-05-08T15:21:03+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,AP
+0,0.0,4.0,0.0,0.0,0.0,/videos/11565555,MEET - Episode One - JORDAN 9AM,235.0,2010-05-07T22:11:34+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MT
+0,0.0,4.0,0.0,0.0,0.0,/videos/11565788,MEET - Episode Three - JORDAN 10AM,218.0,2010-05-07T22:22:54+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MT
+0,0.0,1.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,2.0,0.0,0.0,0.0,,0,0.0,0,0,0.0,0.0,,,,,None
+0,0.0,25.0,0.0,0.0,0.0,/videos/10225370,"Artspace Underground, February 2010",376.0,2010-03-17T04:45:04+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,None

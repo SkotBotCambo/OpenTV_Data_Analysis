@@ -1,0 +1,47 @@
+plays,downloads,loads,finishes,likes,comments,uri,name,duration,created_time,sizes,unique_loads,mean_percent,mean_seconds,sum_seconds,total_seconds,unique_viewers,Project ID
+10641,0.0,18390.0,5985.0,6.0,1.0,/videos/147648438,Full Out -- Season One Trailer,105.0,2015-12-02T21:48:19+00:00,Array,0.0,87.0,88.0,946550.0,1123130.0,0.0,FO
+2336,0.0,4665.0,107.0,3.0,0.0,/videos/143933380,Open TV Presents: Southern for Pussy,283.0,2015-10-28T22:38:55+00:00,Array,0.0,223868871.0,394836263.0,922337510374.0,663886.0,0.0,SFP
+467,0.0,960.0,45.0,1.0,0.0,/videos/146666127,Open TV Presents: Let Go and Let God,1376.0,2015-11-23T17:13:07+00:00,Array,0.0,47.0,485.0,226801.0,625372.0,0.0,LGLG
+183,0.0,1789.0,47.0,1.0,0.0,/videos/121810540,"You're So Talented, Chapter One",341.0,2015-03-10T18:04:57+00:00,Array,0.0,76.0,238.0,43643.0,66202.0,0.0,YST
+139,0.0,797.0,18.0,0.0,0.0,/videos/124357625,"You're So Talented, Season One -- Chapter Three",397.0,2015-04-07T22:23:45+00:00,Array,0.0,73.0,245.0,34186.0,55940.0,0.0,YST
+110,0.0,173.0,15.0,0.0,0.0,/videos/123121866,"You're So Talented, Season One -- Chapter Two",459.0,2015-03-24T18:39:13+00:00,Array,0.0,80.0,296.0,32582.0,51408.0,0.0,YST
+99,0.0,279.0,35.0,0.0,0.0,/videos/143466703,You're So Talented: Season 2 Official Trailer,119.0,2015-10-24T13:58:49+00:00,Array,0.0,79.0,80.0,7933.0,11748.0,0.0,YST
+98,0.0,136.0,6.0,0.0,0.0,/videos/150002138,Futurewomen: The Quest -- Episode 3,842.0,2015-12-25T07:13:40+00:00,Array,0.0,61.0,199.0,19517.0,84606.0,0.0,FW
+84,0.0,173.0,12.0,0.0,0.0,/videos/124849631,"You're So Talented, Season One -- Chapter Four",295.0,2015-04-13T17:46:12+00:00,Array,0.0,80.0,202.0,17037.0,24761.0,0.0,YST
+84,0.0,175.0,15.0,0.0,0.0,/videos/129668799,"You're So Talented, Season One -- Chapter Seven",477.0,2015-06-03T14:13:37+00:00,Array,0.0,86.0,329.0,27711.0,41010.0,0.0,YST
+69,0.0,129.0,14.0,0.0,0.0,/videos/126932556,"You're So Talented, Season One -- Chapter Five",292.0,2015-05-05T15:32:57+00:00,Array,0.0,87.0,222.0,15385.0,20138.0,0.0,YST
+68,0.0,129.0,10.0,0.0,0.0,/videos/128319423,"You're So Talented, Season One -- Chapter Six",266.0,2015-05-19T23:04:13+00:00,Array,0.0,81.0,181.0,12333.0,18079.0,0.0,YST
+64,1.0,152.0,7.0,0.0,0.0,/videos/134807299,Open TV Presents: Nupita Obama Creates Vogua,731.0,2015-07-29T04:46:53+00:00,Array,0.0,71.0,369.0,23662.0,46030.0,0.0,NOCV
+37,0.0,72.0,30.0,0.0,0.0,/videos/145222124,Two Queens in Kitchen - Teaser One,16.0,2015-11-10T02:06:53+00:00,Array,0.0,93.0,13.0,492.0,590.0,0.0,None
+27,0.0,55.0,0.0,0.0,0.0,/videos/140615202,"Futurewomen, The Characters -- Episode 2",915.0,2015-09-28T02:11:20+00:00,Array,0.0,46.0,423.0,11433.0,26535.0,0.0,FW
+26,1.0,53.0,0.0,0.0,0.0,/videos/136670475,"Futurewomen, The Origins -- Episode 1",805.0,2015-08-18T23:17:14+00:00,Array,0.0,38.0,310.0,8062.0,21723.0,0.0,FW
+12,0.0,78.0,0.0,0.0,0.0,/videos/130134667,Introducing Open TV (beta) at TEDx Northwestern,1039.0,2015-06-08T19:28:36+00:00,Array,0.0,31.0,296.0,3559.0,13507.0,0.0,OTV|OTC
+9,0.0,29.0,6.0,0.0,0.0,/videos/121910493,Teaser -- Nupita Obama Creates Vogua,55.0,2015-03-11T16:54:25+00:00,Array,0.0,90.0,49.0,442.0,491.0,0.0,NOCV
+6,0.0,61.0,0.0,0.0,0.0,/videos/136579050,Introducing Peppa of #Futurewomen,187.0,2015-08-18T04:21:15+00:00,Array,0.0,49.0,76.0,459.0,1496.0,0.0,FW
+6,0.0,61.0,1.0,0.0,0.0,/videos/136578747,Introducing Isis of #Futurewomen,263.0,2015-08-18T04:14:52+00:00,Array,0.0,72.0,189.0,1136.0,2099.0,0.0,FW
+5,0.0,60.0,1.0,0.0,0.0,/videos/136577953,Introducing Althea of #Futurewomen,107.0,2015-08-18T03:58:39+00:00,Array,0.0,65.0,56.0,282.0,749.0,0.0,FW
+5,0.0,15.0,0.0,0.0,0.0,/videos/134753960,#NupitaObama Creates Vogua Premiere: Pilsen,73.0,2015-07-28T17:24:03+00:00,Array,0.0,58.0,17.0,86.0,292.0,0.0,None
+5,0.0,13.0,0.0,0.0,0.0,/videos/149806393,Introducing the Chicago Home Theater Festival 2015,626.0,2015-12-22T21:16:50+00:00,Array,0.0,87.0,549.0,2748.0,3134.0,0.0,CHT
+3,0.0,14.0,1.0,0.0,0.0,/videos/134346192,#NupitaObama Creates Vogua Premiere: Wicker Park,98.0,2015-07-23T20:27:08+00:00,Array,0.0,93.0,91.0,273.0,292.0,0.0,None
+3,0.0,13.0,1.0,0.0,0.0,/videos/133452075,#NupitaObama Creates Vogua Premiere: Lakeview,77.0,2015-07-14T14:04:01+00:00,Array,0.0,87.0,67.0,203.0,231.0,0.0,None
+3,0.0,18.0,1.0,0.0,0.0,/videos/126751017,"Teaser -- Futurewomen, an alternate reality series by Honey Pot Performance",47.0,2015-05-03T21:57:12+00:00,Array,0.0,86.0,27.0,81.0,141.0,0.0,FW
+3,1.0,21.0,2.0,0.0,0.0,/videos/132485814,Open TV Presents: Nupita Obama Creates Vogua Trailer,47.0,2015-07-02T22:30:04+00:00,Array,0.0,74.0,35.0,105.0,141.0,0.0,NOCV
+2,0.0,17.0,1.0,0.0,0.0,/videos/11577487,The Algebra Project,86.0,2010-05-08T15:21:03+00:00,Array,0.0,100.0,43.0,86.0,172.0,0.0,AP
+2,0.0,7.0,1.0,0.0,0.0,,0,58.0,258,516,884.0,0.0,,,,,None
+2,0.0,7.0,0.0,0.0,0.0,,0,98.0,517,1035,1053.0,0.0,,,,,None
+2,0.0,18.0,0.0,0.0,0.0,/videos/11588116,Project Basho,129.0,2010-05-09T02:35:04+00:00,Array,0.0,13.0,17.0,35.0,258.0,0.0,PB
+1,0.0,54.0,0.0,0.0,0.0,/videos/135381918,Introducing Wonder of #Futurewomen,83.0,2015-08-04T17:50:40+00:00,Array,0.0,0.0,0.0,0.0,165.0,0.0,FW
+1,0.0,16.0,0.0,0.0,0.0,/videos/11587706,Military Sexual Trauma,1610.0,2010-05-09T02:02:01+00:00,Array,0.0,0.0,8.0,8.0,1610.0,0.0,MST
+1,0.0,31.0,0.0,0.0,0.0,/videos/28078430,Philadelphia Voices of Pride,129.0,2011-08-23T21:42:52+00:00,Array,0.0,6.0,8.0,8.0,129.0,0.0,PVP
+1,0.0,15.0,0.0,0.0,0.0,/videos/11577839,"Senegal: Sights, Sounds and Struggles",286.0,2010-05-08T15:44:57+00:00,Array,0.0,12.0,35.0,35.0,286.0,0.0,SSS
+1,0.0,4.0,0.0,0.0,0.0,/videos/25944002,"Michaela Angela Davis on Race and Fashion: ""Color is a Distraction""",230.0,2011-07-03T22:21:57+00:00,Array,0.0,95.0,218.0,218.0,229.0,0.0,MAD
+1,0.0,12.0,0.0,0.0,0.0,/videos/16589287,It Goes Unsaid,216.0,2010-11-07T17:28:53+00:00,Array,0.0,88.0,192.0,192.0,216.0,0.0,IGU
+1,0.0,6.0,1.0,0.0,0.0,,0,100.0,489,489,489.0,0.0,,,,,None
+1,0.0,19.0,0.0,0.0,0.0,/videos/11587726,Spike Lee with Talk Radio News,119.0,2010-05-09T02:03:33+00:00,Array,0.0,0.0,0.0,0.0,119.0,0.0,TRN
+0,0.0,1.0,0.0,0.0,0.0,/videos/25948268,"Michaela Angela Davis and The Urban Catwalk: Style, Race and Counterculture",1761.0,2011-07-04T01:16:20+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MAD
+0,0.0,17.0,0.0,0.0,0.0,/videos/11588056,A Day at the Plant,331.0,2010-05-09T02:28:43+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,ADP
+0,0.0,18.0,0.0,0.0,0.0,/videos/11578516,Talk Radio News - Dennis Kucinich,381.0,2010-05-08T16:22:50+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,TRN
+0,0.0,16.0,0.0,0.0,0.0,/videos/13692827,Pay Day,1586.0,2010-07-28T02:28:12+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,PD
+0,0.0,5.0,0.0,0.0,0.0,/videos/23215153,A Conversation with Michaela Angela Davis at the Urban Catwalk,108.0,2011-05-03T15:54:14+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,MAD
+0,0.0,6.0,0.0,0.0,0.0,/videos/9768044,FAME: Kade Style (Anniversary Cut!),627.0,2010-02-26T21:33:50+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,FM
+0,0.0,19.0,0.0,0.0,0.0,/videos/10225370,"Artspace Underground, February 2010",376.0,2010-03-17T04:45:04+00:00,Array,0.0,0.0,0.0,0.0,0.0,0.0,None
